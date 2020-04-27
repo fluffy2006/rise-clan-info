@@ -70,11 +70,44 @@ nav{
     text-align: center;
     color: rgb(21, 0, 255);
     }
+    #text2 {
+        margin: 16px;
+        text-align: center;
+        color: rgb(110, 14, 7);
+        }
+     #text3 {
+        margin: 16px;
+        text-align: center;
+        color: rgb(13, 209, 79);
+            }
+     #text4 {
+        margin: 16px;
+        text-align: center;
+        color: rgb(233, 146, 16);
+                }
+                 #text5 {
+                    margin: 16px;
+                    text-align: center;
+                    color: rgb(0, 251, 255);
+                    }
+                    #text6 {
+                        margin: 16px;
+                        text-align: center;
+                        color: rgb(96, 12, 144);
+                        }
+                     #text7 {
+                        margin: 16px;
+                        text-align: center;
+                        color: rgb(205, 8, 198);
+                            }
+        
 
     #sm {
+        margin-top: 0px;
         text-align: center;
     }
     #media {
+        margin-top: 20px;
         text-align: center;
         color: rgb(154, 22, 22);
         }
